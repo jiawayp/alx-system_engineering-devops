@@ -4,7 +4,7 @@
 # Display 9 and bad luck from japan on 9th loops
 # Display 17 and bad luck from Italy on 17th loops
 
-count=0
+count=1
 while [ $count -le 20 ]
 do
 	echo "$count"
